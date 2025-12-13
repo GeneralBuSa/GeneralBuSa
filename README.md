@@ -20,7 +20,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/>
 </p>
 
 #### 🧰 Tools & Technologies
@@ -29,6 +28,7 @@
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/>
 </p>
 
 <hr>
