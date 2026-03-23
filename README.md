@@ -24,7 +24,6 @@
 
 #### 🧰 Tools & Technologies
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
@@ -36,13 +35,6 @@
 ### 📬 Let's Connect
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/mehmet-burak-albayrak)
 - 👨‍💻 [Kaggle](https://www.kaggle.com/mehmetburakalbayrak)
-
-
-### 📊 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeneralBuSa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralBuSa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
 
