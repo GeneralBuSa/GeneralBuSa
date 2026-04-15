@@ -20,8 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
   <img src="https://icon2.cleanpng.com/20180810/ekz/11448a7a96ee808a3cdbaf0df9570976.webp" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"/>
-  <img src="https://img.icons8.com/color/1200/flutter.jpg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/3840px-Dart-logo-icon.svg.png" width="40"/>
 </p>
 
 #### 🧰 Tools & Technologies
