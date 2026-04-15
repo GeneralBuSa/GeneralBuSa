@@ -17,17 +17,20 @@
 #### 💻 Programming Languages
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40"/>
+  <img src="https://icon2.cleanpng.com/20180810/ekz/11448a7a96ee808a3cdbaf0df9570976.webp" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"/>
+  <img src="https://img.icons8.com/color/1200/flutter.jpg" width="40"/>
 </p>
 
 #### 🧰 Tools & Technologies
 <p>
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/960px-Android_Studio_icon_%282023%29.svg.png" width="40"/>
 </p>
 
 <hr>
