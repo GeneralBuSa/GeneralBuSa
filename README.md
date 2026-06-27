@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Burak 👋!</h1>
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2a98896-e55a-4968-998a-89f4c904b65b" /><h1 align="center">Hi, I'm Burak 👋!</h1>
 <p align="center">
   <i>🎓 I am studying software engineering in my third year at Istanbul Sabahattin Zaim University. I have developed my skills in machine learning, deep learning, and artificial intelligence. In addition, I have basic to intermediate knowledge of Python, C, C++, and JS.</i>
 </p>
@@ -16,7 +16,7 @@
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" width="40"/>
