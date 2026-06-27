@@ -1,4 +1,4 @@
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2a98896-e55a-4968-998a-89f4c904b65b" /><h1 align="center">Hi, I'm Burak 👋!</h1>
+<h1 align="center">Hi, I'm Burak 👋!</h1>
 <p align="center">
   <i>🎓 I am studying software engineering in my third year at Istanbul Sabahattin Zaim University. I have developed my skills in machine learning, deep learning, and artificial intelligence. In addition, I have basic to intermediate knowledge of Python, C, C++, and JS.</i>
 </p>
