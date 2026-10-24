@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-burak-albayrak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/mehmetburakalbayrak"><img src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:burak61.2011@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
