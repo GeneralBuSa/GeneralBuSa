@@ -1,43 +1,77 @@
-<h1 align="center">Hi, I'm Burak 👋!</h1>
+<h1 align="center">Hi, I'm Burak 👋</h1>
+
 <p align="center">
-  <i>🎓 I am studying software engineering in my third year at Istanbul Sabahattin Zaim University. I have developed my skills in machine learning, deep learning, and artificial intelligence. In addition, I have basic to intermediate knowledge of Python, C, C++, and JS.</i>
+  <b>AI & Sensor Fusion · Software Engineering @ Istanbul Sabahattin Zaim University</b><br>
+  <i>Building local LLM/RAG systems, multi-sensor target tracking and computer vision applications with Python & C++.</i>
 </p>
 
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmet-burak-albayrak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/mehmetburakalbayrak"><img src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:burak61.2011@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
 
 ### 🖥️ About Me
-- 🧑‍🎓 I’m a third-year Software Engineering student at Istanbul Sabahattin Zaim University (GPA: 3.39)
-- 🤖 Currently working on Machine Learning, Deep Learning, LLMs, and AI
-- ⚙️ Participating in the 13th International MEB Robot Competition (mini sumo robots)
 
-<hr>
+- 🎓 4th-year Software Engineering student at **Istanbul Sabahattin Zaim University** (GPA: 3.34 / 4.00)
+- 💼 Former **AI Intern at Microsoft Türkiye** (AI Innovators Internship, Jun–Aug 2026) — built a fully local RAG question-answering system with Foundry Local & Phi-3.5 Mini
+- ✈️ Currently working on **EMC-aware automatic routing of aircraft wire harnesses** as part of the **TUSAŞ LIFT UP** program
+- 📡 Graduation project: **multi-sensor data fusion** for target tracking (radar, EO/IR camera, position reports)
+- 🏅 **Kaggle Notebooks Expert** with 8 medals
+- 🤖 Interests: Machine Learning, Deep Learning, LLMs & RAG, Computer Vision, Sensor Fusion
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 **[Local RAG Q&A System](https://github.com/GeneralBuSa/Summer-School-Foundry-Local)** | Fully local document question-answering: semantic chunking, embeddings stored in SQLite, cosine-similarity retrieval, hallucination-reducing prompts. Usable via FastAPI, Next.js UI and CLI. | Python · Foundry Local · Phi-3.5 · FastAPI · Next.js |
+| 📡 **[Multi-Sensor Data Fusion](https://github.com/GeneralBuSa/Cok-Sensorlu-Veri-Fuzyonu)** | Team graduation project fusing radar, EO/thermal camera and position reports. IMM filter (CV + coordinated-turn EKF), Mahalanobis gating, NIS-based sensor weighting. Fusion beat the best single sensor in every Monte Carlo run (GOSPA 19.0 m vs. 34.2 m radar-only). | Python · NumPy · SciPy · Kalman/EKF · pytest |
+| ✈️ **EMC-Aware Wire Harness Routing** | TUSAŞ LIFT UP team project: routing aircraft wire harnesses over a 3D fuselage. I build the routing graph from the triangle-mesh surface and model forbidden volumes. | Python · Computational Geometry · Graph Algorithms · KD-Tree |
+| 🏋️ **Spotter AI** | Real-time pose tracking and form analysis for 63 exercises, with a custom perspective-invariant *Spread Ratio* algorithm and hysteresis-based rep validation. | Python · MediaPipe · OpenCV · Supabase |
+| 🎬 **Generads AI** | AI platform that generates ad visuals and videos from product inputs; FastAPI backend and n8n-based generation pipeline. | FastAPI · Next.js · n8n · LLMs |
+
+---
 
 ### ⚙️ Tech Stack
 
-#### 💻 Programming Languages
+**Languages**
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/3840px-Dart-logo-icon.svg.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart" alt="Languages"/>
 </p>
 
-#### 🧰 Tools & Technologies
+**Frameworks & Libraries**
 <p>
-  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/960px-Android_Studio_icon_%282023%29.svg.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,opencv,sklearn" alt="Frameworks"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-<hr>
+**Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql,docker,git,githubactions,linux,vercel" alt="Tools"/>
+</p>
 
-### 📬 Let's Connect
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/mehmet-burak-albayrak)
-- 👨‍💻 [Kaggle](https://www.kaggle.com/mehmetburakalbayrak)
+**AI & Data:** Machine Learning · Deep Learning · LLMs · RAG · Embeddings · Prompt Engineering · Computer Vision · Sensor Fusion
 
+---
 
+### 📜 Certifications
 
-  
+- Machine Learning 101–501, Deep Learning (ANN), Intro to Data Science & AI — *Turkcell "Geleceği Yazanlar"*
+- LLM Jetpack Program — *TurkStudentCo*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeneralBuSa&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralBuSa&layout=compact&hide_border=true" height="160" alt="Top languages"/>
+</p>
