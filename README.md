@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Burak 👋</h1>
 
 <p align="center">
-  <b>AI & Sensor Fusion · Software Engineering @ Istanbul Sabahattin Zaim University</b><br>
+  <b>AI & Sensor Fusion · Software Engineering at Istanbul Sabahattin Zaim University</b><br>
   <i>Building local LLM/RAG systems, multi-sensor target tracking and computer vision applications with Python & C++.</i>
 </p>
 
@@ -19,7 +19,8 @@
 - 💼 Former **AI Intern at Microsoft Türkiye** (AI Innovators Internship, Jun–Aug 2026) — built a fully local RAG question-answering system with Foundry Local & Phi-3.5 Mini
 - ✈️ Currently working on **EMC-aware automatic routing of aircraft wire harnesses** as part of the **TUSAŞ LIFT UP** program
 - 📡 Graduation project: **multi-sensor data fusion** for target tracking (radar, EO/IR camera, position reports)
-- 🏅 **Kaggle Notebooks Expert** with 8 medals
+- 🏅 **Kaggle Notebooks Expert**
+- ⚙️ Participated in the 13th International MEB Robot Competition (mini sumo robots)
 - 🤖 Interests: Machine Learning, Deep Learning, LLMs & RAG, Computer Vision, Sensor Fusion
 
 ---
@@ -60,14 +61,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql,docker,git,githubactions,linux,vercel" alt="Tools"/>
 </p>
 
-**AI & Data:** Machine Learning · Deep Learning · LLMs · RAG · Embeddings · Prompt Engineering · Computer Vision · Sensor Fusion
-
----
-
-### 📜 Certifications
-
-- Machine Learning 101–501, Deep Learning (ANN), Intro to Data Science & AI — *Turkcell "Geleceği Yazanlar"*
-- LLM Jetpack Program — *TurkStudentCo*
+**AI & Data:** Machine Learning · Deep Learning · LLMs · RAG · Embeddings · Computer Vision · Sensor Fusion
 
 ---
 
